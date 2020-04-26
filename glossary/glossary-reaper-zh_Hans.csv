@@ -16,7 +16,7 @@
 "activating",
 "active",活动的
 "actively-writing",
-"activity",
+"activity",活动
 "add",添加
 "add-fx",添加FX
 "added",已添加
@@ -88,21 +88,21 @@
 "asynchronous",异步的
 "attach",附加
 "attached",已附加
-"attack",
+"attack",启动
 "attribute",属性
 "audio",音频
 "aui",
 "auto",自动
 "auto-advance",
 "auto-clear",自动清除
-"auto-crossfade",
-"auto-crossfades",
-"auto-detect",
-"auto-float",
-"auto-open",
-"auto-punch",
-"auto-render",
-"auto-reposition",
+"auto-crossfade",自动交叠
+"auto-crossfades",自动交叠
+"auto-detect",自动检测
+"auto-float",自动浮窗
+"auto-open",自动打开
+"auto-punch",自动插入
+"auto-render",自动渲染
+"auto-reposition",自动重置
 "auto-stop",自动停止
 "auto-view-scroll",自动滚动视窗
 "automatic",自动
@@ -183,12 +183,12 @@
 "build",构建
 "burn",烤盘
 "burning",正在烤盘
-"bus",
-"buses",
+"bus",母线
+"buses",母线
 "button",按钮
 "buttons",按钮
-"bwf description",
-"bwf",
+"bwf description",BWF格式描述
+"bwf",BWF格式
 "bypass",旁通
 "bypassed",已旁通
 "bytes",字节
@@ -201,12 +201,12 @@
 "can't",无法
 "cancel",取消
 "cannot",无法
-"capture",
+"capture",捕捉
 "cascade",层叠
 "categories",分类目录
 "category",分类目录
-"cause",
-"causes",
+"cause",原因
+"causes",原因
 "caution",警示
 "cbr",
 "cd burning",
@@ -274,15 +274,15 @@
 "common",
 "comp",层组
 "compact",
-"compatibility",
-"compatible",
+"compatibility",兼容性
+"compatible",兼容
 "compensated",
 "compensation",
 "complete",
-"compression",
-"compressor",
+"compression",压缩量
+"compressor",压缩器
 "comps",层组
-"computer",
+"computer",计算机
 "config",配置
 "configuration import",
 "configuration",配置
@@ -307,11 +307,11 @@
 "context",
 "contexts",
 "continue",继续
-"continuous view",
-"continuous",
+"continuous view",持续视图
+"continuous",持续
 "control surface",
 "control",控制
-"controller",
+"controller",控制器
 "controlpanel",控制面板
 "controls",
 "conversion",转换
@@ -366,7 +366,7 @@
 "days",天
 "ddp",
 "ddpms",
-"decay",
+"decay",衰减时间
 "decibels",分贝
 "decoder",解码器
 "decoders",解码器
@@ -568,14 +568,14 @@
 "find",查找
 "finder",
 "finding",正在查找
-"fine",
+"fine",精确
 "finished",
 "finishes",
 "first",
 "fit",
 "flac",FLAC
-"flag",
-"flags",
+"flag",标签
+"flags",标签
 "flash",
 "flat",
 "flexible",
@@ -583,7 +583,7 @@
 "floating",
 "floor",
 "flush",
-"flute",
+"flute",长笛
 "fmt",
 "focus",焦点
 "focused",
@@ -658,8 +658,8 @@
 "half",
 "halve",
 "hand",
-"handle",
-"handles",
+"handle",处理
+"handles",处理
 "hard-cbr",
 "hardware",硬件
 "hardwares",硬件
